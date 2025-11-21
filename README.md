@@ -9,9 +9,9 @@ Each problem includes a clean approach and code in a minimal **monospace style**
 
 ## 📊 Progress At a Glance
 
-* **Total Problems Solved:** **00** 
+* **Total Problems Solved:** **01** 
 * **Primary Languages:** `[Python]`, `[C++]`
-* **Last Updated:** November 20, 2025
+* **Last Updated:** November 21, 2025
 
 ## 🗂️ Repository Structure
 
