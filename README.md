@@ -9,9 +9,9 @@ Each problem includes a clean approach and code in a minimal **monospace style**
 
 ## 📊 Progress At a Glance
 
-* **Total Problems Solved:** **10** 
+* **Total Problems Solved:** **11** 
 * **Primary Languages:** `[C++]`
-* **Last Updated:** March 24, 2026.
+* **Last Updated:** March 25, 2026.
 
 ## 🗂️ Repository Structure
 
